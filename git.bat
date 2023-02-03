@@ -1,3 +1,4 @@
+@echo off
 git pull
 git add .
 set /p commit=escreva seu commit: 
